@@ -1,0 +1,9 @@
+
+ScrapySpider/__pycache__/__init__.cpython-36.pyc
+ScrapySpider/__pycache__/items.cpython-36.pyc
+ScrapySpider/__pycache__/middlewares.cpython-36.pyc
+ScrapySpider/__pycache__/pipelines.cpython-36.pyc
+ScrapySpider/__pycache__/settings.cpython-36.pyc
+ScrapySpider/spiders/__pycache__/__init__.cpython-36.pyc
+ScrapySpider/spiders/__pycache__/EhentaiSpider.cpython-36.pyc
+ScrapySpider/__pycache__/sqlite.cpython-36.pyc
