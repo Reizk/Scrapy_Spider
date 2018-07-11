@@ -9,8 +9,7 @@ class EhentaiSpider(scrapy.Spider):
     start_urls =set([
 
 
-'https://e-hentai.org/lofi/g/1245245/4b5c5c0d59/' ,'https://e-hentai.org/lofi/g/1245629/d9dd92d380/',
-        'https://e-hentai.org/lofi/g/1246235/37757de45f/',
+'https://e-hentai.org/lofi/g/Xxx/xxx/' ,
 
 
                   ])
